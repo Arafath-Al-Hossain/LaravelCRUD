@@ -18,9 +18,9 @@
     <div class="container">
         <div class="flex justify-between my-5">
             <h1 class="text-2xl font-bold  ">
-                home
+                Create
             </h1>
-            <a href="/create" class="bg-green-600 text-white rounded py-2 px-4">Add new post</a>
+            <a href="/" class="bg-green-600 text-white rounded py-2 px-4">Back Home</a>
         </div>
     </div>
 </body>
